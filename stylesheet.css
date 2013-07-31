@@ -1,0 +1,33 @@
+@import url(bootstrap.css);
+
+
+body {
+       background-image:url('samantha2.jpg'); 
+} 
+
+h1 {
+    color:Gold;
+    text-align:Center;
+    font-family:"TimesNewRoman";
+    
+}
+
+h2 {
+   color:GoldenRod;
+   font-family:"TimesNewRoman";
+   background-color:Yellow;
+}
+  
+p  {
+     color:DarkTurquoise;
+    text-align:Center;
+    font-family:"TimesNewRoman";
+   background-color:DarkGoldenRod;
+}
+
+h3 {
+     color:DarkGoldenRod;
+     front-family:TimesNewRoman;
+}
+
+
